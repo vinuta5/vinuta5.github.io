@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 we are editing the git hello world repository readme file
 we are making anaother small change to understand pull command
+making another to understand the fetch+merge and pull
